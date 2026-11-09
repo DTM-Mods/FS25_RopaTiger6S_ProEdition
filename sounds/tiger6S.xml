@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<sounds>
+    <motorized>
+       <sounds>
+            <motor template="engineLarge" file="sounds/tiger6S_loop.gls" volumeScale="1.5"/>
+            <motor template="indoorCabinRumble" volumeScale="12" pitchScale="1"   linkNodeOffset="0.5 3 5.7"/>
+            <motor template="indoorCabinRumble" volumeScale="12" pitchScale="1.2" linkNodeOffset="-0.5 3 5.7"/>
+            <motor template="transmissionModern_04" volumeScale="2.1" pitchScale="0.6" linkNode="rightFrontWheel" isLocalSound="true"/>
+            <motor template="transmissionModern_04" volumeScale="2.1" pitchScale="0.8" linkNode="leftFrontWheel"/>
+            <motor template="cabinHarvester01" volumeScale="3" pitchScale="1.2" linkNodeOffset="0 3 5.7"/>
+            <motor template="fanHarvester01" volumeScale="2" pitchScale="0.8" linkNodeOffset="0 3 -4.5"/>
+            <reverseDrive template="reverseBeep01" />
+            <motor template="filterLoop" fadeIn="3" fadeOut="2" linkNode="backRailingHydraulicPunch" volumeScale="0.6"/>
+        </sounds>
+    </motorized>
+
+    <enterable>
+        <sounds>
+            <rain template="rainInVehicle"  linkNodeOffset="0 3 5.7">
+                <loopSynthesisRpm>
+                    <modifier type="SPEED" value="0.0" modifiedValue="0.0" />
+                    <modifier type="SPEED" value="43.0" modifiedValue="1" />
+                </loopSynthesisRpm>
+                <volume>
+                    <modifier type="SPEED" value="0" modifiedValue="1" />
+                    <modifier type="SPEED" value="15" modifiedValue="1" />
+                    <modifier type="SPEED" value="43" modifiedValue="1.2" />
+                </volume>
+
+                <pitch>
+                    <modifier type="SPEED" value="0" modifiedValue="1" />
+                    <modifier type="SPEED" value="15" modifiedValue="1" />
+                    <modifier type="SPEED" value="43" modifiedValue="1.0" />
+                </pitch>
+            </rain>
+            <hail template="hailInVehicle"  linkNodeOffset="0 3 5.7" volumeScale="1.5">
+                <loopSynthesisRpm>
+                    <modifier type="SPEED" value="0.0" modifiedValue="0.0" />
+                    <modifier type="SPEED" value="42" modifiedValue="1" />
+                </loopSynthesisRpm>
+                <volume>
+                    <modifier type="SPEED" value="0" modifiedValue="1" />
+                    <modifier type="SPEED" value="10" modifiedValue="1" />
+                    <modifier type="SPEED" value="42" modifiedValue="1.2" />
+                </volume>
+
+                <pitch>
+                    <modifier type="SPEED" value="0" modifiedValue="1" />
+                    <modifier type="SPEED" value="10" modifiedValue="1" />
+                    <modifier type="SPEED" value="42" modifiedValue="1.0" />
+                </pitch>
+            </hail>
+        </sounds>
+    </enterable>
+
+    <lights>
+        <sounds>
+            <toggleLights template="switch01" />
+            <turnLight template="switchTurnlight" />
+        </sounds>
+    </lights>
+
+    <attacherJoints>
+        <attacherJoint>
+            <attachSound template="headerAttach01" linkNode="attacherJoint" />
+        </attacherJoint>
+
+        <sounds>
+            <attach template="attach01" />
+            <hydraulic template="hydraulicOpen02" linkNode="0>" />
+        </sounds>
+    </attacherJoints>
+
+    <drivable>
+        <sounds>
+            <waterSplash template="waterSplash01" />
+        </sounds>
+    </drivable>
+
+    <turnOnVehicle>
+       <sounds>
+           <work template="augerBelt" pitchScale="0.5" volumeScale="4.0" fadeIn="0.2" fadeOut="1" innerRadius="1.0" outerRadius="40.0" linkNode="leftFillArm"/>
+           <work template="augerBelt" pitchScale="0.8" volumeScale="3.5" fadeIn="0.2" fadeOut="1" innerRadius="1.0" outerRadius="40.0" linkNode="rightFillArm"/>
+           <work template="defaultSpreader" pitchScale="0.4" volumeScale="3.5" fadeIn="0.2" fadeOut="1" innerRadius="1.0" outerRadius="40.0" linkNode="cleaningDrum01"/>
+           <work template="strawblowerWork" pitchScale="0.9" volumeScale="3.2" fadeIn="0.2" fadeOut="1" innerRadius="1.0" outerRadius="40.0" linkNode="cleaningDrum01"/>
+           <work template="augerLoop" pitchScale="0.7" volumeScale="3.5" fadeIn="0.2" fadeOut="2" innerRadius="1.0" outerRadius="40.0" linkNode="augerRotationPart"/>
+       </sounds>
+    </turnOnVehicle>
+
+    <ai>
+        <automaticSteering>
+            <sounds>
+                <engage template="gpsEngageDefault"/>
+                <disengage template="gpsDisengageDefault"/>
+                <lineEnd template="gpsLineEndDefault"/>
+            </sounds>
+        </automaticSteering>
+    </ai>
+
+    <honk>
+        <sound template="honkRopa" linkNode="0>" />
+    </honk>
+</sounds>

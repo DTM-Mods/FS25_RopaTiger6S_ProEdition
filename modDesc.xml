@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="110">
+    <author>PropaineX</author>
+    <version>1.2.0.0</version>
+
+    <title>
+        <en>Ropa Tiger 6S ProEdition</en>
+    </title>
+
+    <description>
+        <en><![CDATA[ProEdition copies of the base-game Ropa Tiger 6S self-propelled beet harvester, its RR-XL 9x45 header and the header trailer.
+
+The models, textures, sounds and settings are the same as the base-game machines. They are listed in the shop next to the originals:
+- Beet Harvesters: "Tiger 6S ProEdition"
+- Beet Harvester Headers: "RR-XL 9x45 ProEdition" and the "ProEdition" header trailer
+
+ProEdition: the header harvests, and the Tiger holds, every root crop and vegetable in the base game, plus sugar cane: sugar beet, beetroot, potatoes, carrots, parsnips, green beans, peas, spinach, onions and sugar cane (topped and cut, with the game's cane cutting effects and cane on the belts).
+
+Tiger shop options: the ProEdition 57.5 m³ tank, the 996 hp Tiger ProEdition engine, a cab window tint (Light, Medium or Dark), the side logo and rear logo each on or off, and three colors: a main color theme, a mechanical parts color for the belts and the cleaning section, and a rim color.
+Header and header trailer: the same main color theme and black color group (#1) as the Tiger, so all three machines can be themed to match; the trailer also has a rim color for its rims and hubs.
+
+Multiplayer: every player needs the mod.
+]]></en>
+    </description>
+
+    <iconFilename>icon_tiger6S.dds</iconFilename>
+
+    <multiplayer supported="true"/>
+
+    <specializations>
+        <specialization name="windowTint" className="WindowTint" filename="scripts/WindowTint.lua"/>
+        <specialization name="proPaint" className="ProPaint" filename="scripts/ProPaint.lua"/>
+        <specialization name="proBeltMaterials" className="ProBeltMaterials" filename="scripts/ProBeltMaterials.lua"/>
+    </specializations>
+
+    <vehicleTypes>
+        <!-- className/filename are given explicitly: inherited from the parent, the path would resolve inside the mod folder -->
+        <type name="ropaTigerPro" parent="combineDrivable" className="Vehicle" filename="$dataS/scripts/vehicles/Vehicle.lua">
+            <specialization name="windowTint"/>
+            <specialization name="proPaint"/>
+            <specialization name="proBeltMaterials"/>
+        </type>
+        <type name="ropaHeaderPro" parent="cutterFruitPreparer" className="Vehicle" filename="$dataS/scripts/vehicles/Vehicle.lua">
+            <specialization name="proPaint"/>
+            <specialization name="proBeltMaterials"/>
+        </type>
+        <type name="ropaHeaderTrailerPro" parent="dynamicMountAttacherTrailer" className="Vehicle" filename="$dataS/scripts/vehicles/Vehicle.lua">
+            <specialization name="proPaint"/>
+        </type>
+    </vehicleTypes>
+
+    <storeItems>
+        <storeItem xmlFilename="tiger6S.xml"/>
+        <storeItem xmlFilename="rrXL9/rrXL9.xml"/>
+        <storeItem xmlFilename="rrXLTrailer/rrXLTrailer.xml"/>
+    </storeItems>
+</modDesc>
