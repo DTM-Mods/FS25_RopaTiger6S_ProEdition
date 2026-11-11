@@ -61,6 +61,12 @@ Works in multiplayer; every player needs the mod.
 
 Download `FS25_RopaTiger6S_ProEdition.zip` from the [latest release](https://github.com/DTM-Mods/FS25_RopaTiger6S_ProEdition/releases/latest) and put it, without unzipping or renaming it, in `Documents/My Games/FarmingSimulator2025/mods`.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DTM-Mods/.github/main/assets/license.jpg" alt="License" width="100%">
+</p>
+
+MIT, see [LICENSE](LICENSE). It covers only PropaineX's own work: the models, textures and other files that come from or are based on Farming Simulator 25 belong to GIANTS Software GmbH and stay under its terms.
+
 ---
 
 <p align="center">
