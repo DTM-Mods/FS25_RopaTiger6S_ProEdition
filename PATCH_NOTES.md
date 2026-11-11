@@ -4,6 +4,9 @@
 
 # Patch notes
 
+## 1.2.1.0
+- Fixed the unloading and bunker belts sometimes running forever on a server after unloading ended (tank empty, engine off or getting out).
+
 ## 1.2.0.0
 - Third tank option. The tanks are now called Normal (43 m³), Boosted (57.5 m³) and Extreme (63 m³). The weight limit was raised so the Extreme tank can be filled with potatoes.
 - Includes the carrot / parsnip belt fixes from 1.1.3.0.

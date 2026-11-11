@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <modDesc descVersion="110">
     <author>PropaineX</author>
-    <version>1.2.0.0</version>
+    <version>1.2.1.0</version>
 
     <title>
         <en>Ropa Tiger 6S ProEdition</en>
@@ -31,6 +31,7 @@ Multiplayer: every player needs the mod.
         <specialization name="windowTint" className="WindowTint" filename="scripts/WindowTint.lua"/>
         <specialization name="proPaint" className="ProPaint" filename="scripts/ProPaint.lua"/>
         <specialization name="proBeltMaterials" className="ProBeltMaterials" filename="scripts/ProBeltMaterials.lua"/>
+        <specialization name="pipeBeltStop" className="PipeBeltStop" filename="scripts/PipeBeltStop.lua"/>
     </specializations>
 
     <vehicleTypes>
@@ -39,6 +40,7 @@ Multiplayer: every player needs the mod.
             <specialization name="windowTint"/>
             <specialization name="proPaint"/>
             <specialization name="proBeltMaterials"/>
+            <specialization name="pipeBeltStop"/>
         </type>
         <type name="ropaHeaderPro" parent="cutterFruitPreparer" className="Vehicle" filename="$dataS/scripts/vehicles/Vehicle.lua">
             <specialization name="proPaint"/>

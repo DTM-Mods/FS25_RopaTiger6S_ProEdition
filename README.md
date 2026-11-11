@@ -41,7 +41,7 @@ ProEdition copies of the base-game **Ropa Tiger 6S** self-propelled beet harvest
 
 ### Multiplayer
 
-Works in multiplayer; every player needs the mod.
+Works in multiplayer; every player needs the mod. The unloading and bunker belts stop for every player when unloading ends (fixes a base-game issue where they kept running on servers).
 
 <!-- dtm-screenshots -->
 
