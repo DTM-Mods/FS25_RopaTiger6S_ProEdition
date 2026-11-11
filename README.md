@@ -43,6 +43,18 @@ ProEdition copies of the base-game **Ropa Tiger 6S** self-propelled beet harvest
 
 Works in multiplayer; every player needs the mod.
 
+<!-- dtm-screenshots -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DTM-Mods/.github/main/assets/screenshots.jpg" alt="Screenshots" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DTM-Mods/.github/main/assets/screens/FS25_RopaTiger6S_ProEdition/shop.jpg" alt="Tiger 6S ProEdition, RR-XL 9x45 header, Header trailer" width="100%">
+</p>
+
+<!-- /dtm-screenshots -->
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/DTM-Mods/.github/main/assets/installation.jpg" alt="Installation" width="100%">
 </p>
