@@ -4,6 +4,11 @@
 
 # Patch notes
 
+## 1.2.1.1
+
+- The author now shows as **DTM Mods, PropaineX** in the mod list.
+- The shop description lists all three tank sizes: Normal 43, Boosted 57.5 and Extreme 63 m³.
+
 ## 1.2.1.0
 - Fixed the unloading and bunker belts sometimes running forever on a server after unloading ended (tank empty, engine off or getting out).
 
