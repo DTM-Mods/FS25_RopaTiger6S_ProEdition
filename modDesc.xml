@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
-<modDesc descVersion="115">
+<modDesc descVersion="116">
     <author>DTM Mods, PropaineX</author>
-    <version>1.2.1.2</version>
+    <version>1.2.1.3</version>
 
     <title>
         <en>Ropa Tiger 6S ProEdition</en>
@@ -21,9 +21,8 @@ Header and header trailer: the same main color theme and black color group (#1) 
 
 Multiplayer: every player needs the mod.
 
-Changelog 1.2.1.2:
-- Meets the GIANTS ModHub checks (TestRunner): textures, icon and modDesc brought up to date.
-- Smaller download: textures that are identical to the game's own are no longer shipped; the machines load them from the game.]]></en>
+Changelog 1.2.1.3:
+- Updated for the current game version (modDesc version 116).]]></en>
         <de><![CDATA[ProEdition-Kopien des selbstfahrenden Rübenroders Ropa Tiger 6S aus dem Grundspiel, seines Schneidwerks RR-XL 9x45 und des Schneidwerkswagens.
 
 Modelle, Texturen, Sounds und Einstellungen sind dieselben wie bei den Maschinen aus dem Grundspiel. Im Shop stehen sie neben den Originalen:
@@ -37,9 +36,8 @@ Schneidwerk und Schneidwerkswagen: dasselbe Hauptfarbthema und dieselbe schwarze
 
 Multiplayer: Jeder Spieler braucht den Mod.
 
-Changelog 1.2.1.2:
-- Erfüllt die GIANTS-ModHub-Prüfungen (TestRunner): Texturen, Icon und modDesc aktualisiert.
-- Kleinerer Download: Texturen, die mit denen des Spiels identisch sind, werden nicht mehr mitgeliefert; die Maschinen laden sie aus dem Spiel.]]></de>
+Changelog 1.2.1.3:
+- An die aktuelle Spielversion angepasst (modDesc-Version 116).]]></de>
     </description>
 
     <iconFilename>icon_tiger6S.dds</iconFilename>
