@@ -4,6 +4,10 @@
 
 # Patch notes
 
+## 1.2.1.2
+- Meets the GIANTS ModHub checks (TestRunner): textures, icon and modDesc brought up to date.
+- Smaller download: textures that are identical to the game's own are no longer shipped; the machines load them from the game.
+
 ## 1.2.1.1
 
 - The author now shows as **DTM Mods, PropaineX** in the mod list.

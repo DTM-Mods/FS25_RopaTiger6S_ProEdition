@@ -27,11 +27,11 @@
     <File fileId="19" filename="$data/shared/detailLibrary/nonMetallic/rubber/rubber_normal.png" />
     <File fileId="20" filename="$data/shared/detailLibrary/nonMetallic/rubber/rubber_specular.png" />
     <File fileId="2" filename="$data/shared/white_diffuse.png" />
-    <File fileId="28" filename="rrXL9Additional_normal.png" />
-    <File fileId="29" filename="rrXL9Additional_vmask.png" />
-    <File fileId="26" filename="rrXL9Decals_diffuse.png" />
-    <File fileId="3" filename="rrXL9_normal.png" />
-    <File fileId="4" filename="rrXL9_vmask.png" />
+    <File fileId="28" filename="$data/vehicles/ropa/rrXL9/rrXL9Additional_normal.png" />
+    <File fileId="29" filename="$data/vehicles/ropa/rrXL9/rrXL9Additional_vmask.png" />
+    <File fileId="26" filename="$data/vehicles/ropa/rrXL9/rrXL9Decals_diffuse.png" />
+    <File fileId="3" filename="$data/vehicles/ropa/rrXL9/rrXL9_normal.png" />
+    <File fileId="4" filename="$data/vehicles/ropa/rrXL9/rrXL9_vmask.png" />
   </Files>
 
   <Materials>

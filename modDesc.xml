@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
-<modDesc descVersion="110">
+<modDesc descVersion="115">
     <author>DTM Mods, PropaineX</author>
-    <version>1.2.1.1</version>
+    <version>1.2.1.2</version>
 
     <title>
         <en>Ropa Tiger 6S ProEdition</en>
@@ -20,7 +20,26 @@ Tiger shop options: three tanks (Normal 43 m³, Boosted 57.5 m³, Extreme 63 m³
 Header and header trailer: the same main color theme and black color group (#1) as the Tiger, so all three machines can be themed to match; the trailer also has a rim color for its rims and hubs.
 
 Multiplayer: every player needs the mod.
-]]></en>
+
+Changelog 1.2.1.2:
+- Meets the GIANTS ModHub checks (TestRunner): textures, icon and modDesc brought up to date.
+- Smaller download: textures that are identical to the game's own are no longer shipped; the machines load them from the game.]]></en>
+        <de><![CDATA[ProEdition-Kopien des selbstfahrenden Rübenroders Ropa Tiger 6S aus dem Grundspiel, seines Schneidwerks RR-XL 9x45 und des Schneidwerkswagens.
+
+Modelle, Texturen, Sounds und Einstellungen sind dieselben wie bei den Maschinen aus dem Grundspiel. Im Shop stehen sie neben den Originalen:
+- Rübenroder: "Tiger 6S ProEdition"
+- Rübenroder-Schneidwerke: "RR-XL 9x45 ProEdition" und der "ProEdition"-Schneidwerkswagen
+
+ProEdition: Das Schneidwerk erntet und der Tiger fasst jede Hackfrucht und jedes Gemüse aus dem Grundspiel sowie Zuckerrohr: Zuckerrüben, Rote Bete, Kartoffeln, Karotten, Pastinaken, grüne Bohnen, Erbsen, Spinat, Zwiebeln und Zuckerrohr (geköpft und geschnitten, mit den Zuckerrohr-Schneideffekten des Spiels und Zuckerrohr auf den Bändern).
+
+Shop-Optionen des Tiger: drei Bunker (Normal 43 m³, Boosted 57,5 m³, Extreme 63 m³), der Tiger-ProEdition-Motor mit 996 PS, eine Scheibentönung der Kabine (Light, Medium oder Dark), Seitenlogo und Hecklogo jeweils an oder aus, und drei Farben: ein Hauptfarbthema, eine Farbe für die mechanischen Teile (Bänder und Reinigungsteil) und eine Felgenfarbe.
+Schneidwerk und Schneidwerkswagen: dasselbe Hauptfarbthema und dieselbe schwarze Farbgruppe (#1) wie der Tiger, sodass alle drei Maschinen farblich zusammenpassen; der Wagen hat außerdem eine Felgenfarbe für Felgen und Naben.
+
+Multiplayer: Jeder Spieler braucht den Mod.
+
+Changelog 1.2.1.2:
+- Erfüllt die GIANTS-ModHub-Prüfungen (TestRunner): Texturen, Icon und modDesc aktualisiert.
+- Kleinerer Download: Texturen, die mit denen des Spiels identisch sind, werden nicht mehr mitgeliefert; die Maschinen laden sie aus dem Spiel.]]></de>
     </description>
 
     <iconFilename>icon_tiger6S.dds</iconFilename>

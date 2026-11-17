@@ -29,14 +29,14 @@
     <File fileId="26" filename="$data/shared/detailLibrary/nonMetallic/reflector/reflector_diffuse.png" />
     <File fileId="27" filename="$data/shared/detailLibrary/nonMetallic/reflector/reflector_specular.png" />
     <File fileId="1" filename="$data/shared/white_diffuse.png" />
-    <File fileId="2" filename="rrXLTrailerCable_normal.png" />
-    <File fileId="3" filename="rrXLTrailerCable_vmask.png" />
-    <File fileId="33" filename="rrXLTrailerDecals1_diffuse.png" />
-    <File fileId="34" filename="rrXLTrailerDecals1_vmask.png" />
-    <File fileId="28" filename="rrXLTrailerDecals_diffuse.png" />
-    <File fileId="30" filename="rrXLTrailerDecals_vmask.png" />
-    <File fileId="19" filename="rrXLTrailer_normal.png" />
-    <File fileId="20" filename="rrXLTrailer_vmask.png" />
+    <File fileId="2" filename="$data/vehicles/ropa/rrXLTrailer/rrXLTrailerCable_normal.png" />
+    <File fileId="3" filename="$data/vehicles/ropa/rrXLTrailer/rrXLTrailerCable_vmask.png" />
+    <File fileId="33" filename="$data/vehicles/ropa/rrXLTrailer/rrXLTrailerDecals1_diffuse.png" />
+    <File fileId="34" filename="$data/vehicles/ropa/rrXLTrailer/rrXLTrailerDecals1_vmask.png" />
+    <File fileId="28" filename="$data/vehicles/ropa/rrXLTrailer/rrXLTrailerDecals_diffuse.png" />
+    <File fileId="30" filename="$data/vehicles/ropa/rrXLTrailer/rrXLTrailerDecals_vmask.png" />
+    <File fileId="19" filename="$data/vehicles/ropa/rrXLTrailer/rrXLTrailer_normal.png" />
+    <File fileId="20" filename="$data/vehicles/ropa/rrXLTrailer/rrXLTrailer_vmask.png" />
   </Files>
 
   <Materials>
