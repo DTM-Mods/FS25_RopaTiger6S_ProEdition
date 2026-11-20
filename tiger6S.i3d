@@ -58,39 +58,39 @@
     <File fileId="13" filename="$data/shared/white_diffuse.png" />
     <File fileId="79" filename="$data/shared/window_diffuse.png" />
     <File fileId="80" filename="$data/shared/window_vmask.png" />
-    <File fileId="74" filename="RRXLTrailer_normal.png" />
-    <File fileId="75" filename="RRXLTrailer_vmask.png" />
-    <File fileId="82" filename="tiger6AdditionalAlpha_diffuse.png" />
-    <File fileId="83" filename="tiger6AdditionalAlpha_normal.png" />
-    <File fileId="40" filename="tiger6Additional_normal.png" />
-    <File fileId="41" filename="tiger6Additional_vmask.png" />
-    <File fileId="53" filename="tiger6Belt01_diffuse.png" />
-    <File fileId="54" filename="tiger6Belt01_normal.png" />
-    <File fileId="55" filename="tiger6Belt01_vmask.png" />
-    <File fileId="50" filename="tiger6Belt02_diffuse.png" />
-    <File fileId="51" filename="tiger6Belt02_normal.png" />
-    <File fileId="52" filename="tiger6Belt02_vmask.png" />
-    <File fileId="65" filename="tiger6Belt03_diffuse.png" />
-    <File fileId="66" filename="tiger6Belt03_normal.png" />
-    <File fileId="67" filename="tiger6Belt03_vmask.png" />
-    <File fileId="8" filename="tiger6DecalsInterior_diffuse.png" />
-    <File fileId="73" filename="tiger6DecalsWheel_vmask.png" />
-    <File fileId="71" filename="tiger6Decals_diffuse.png" />
-    <File fileId="72" filename="tiger6Decals_normal.png" />
-    <File fileId="62" filename="tiger6Grid02_diffuse.png" />
-    <File fileId="63" filename="tiger6Grid02_normal.png" />
-    <File fileId="64" filename="tiger6Grid02_vmask.png" />
-    <File fileId="68" filename="tiger6Grid_diffuse.png" />
-    <File fileId="69" filename="tiger6Grid_normal.png" />
-    <File fileId="70" filename="tiger6Grid_vmask.png" />
-    <File fileId="44" filename="tiger6Interior_normal.png" />
-    <File fileId="45" filename="tiger6Interior_vmask.png" />
-    <File fileId="87" filename="tiger6SLights_emissive.png" />
-    <File fileId="12" filename="tiger6Screen_diffuse.png" />
-    <File fileId="85" filename="tiger6SteeringWheel_normal.png" />
-    <File fileId="86" filename="tiger6SteeringWheel_vmask.png" />
-    <File fileId="14" filename="tiger6_normal.png" />
-    <File fileId="15" filename="tiger6_vmask.png" />
+    <File fileId="74" filename="$data/vehicles/ropa/tiger6S/RRXLTrailer_normal.png" />
+    <File fileId="75" filename="$data/vehicles/ropa/tiger6S/RRXLTrailer_vmask.png" />
+    <File fileId="82" filename="$data/vehicles/ropa/tiger6S/tiger6AdditionalAlpha_diffuse.png" />
+    <File fileId="83" filename="$data/vehicles/ropa/tiger6S/tiger6AdditionalAlpha_normal.png" />
+    <File fileId="40" filename="$data/vehicles/ropa/tiger6S/tiger6Additional_normal.png" />
+    <File fileId="41" filename="$data/vehicles/ropa/tiger6S/tiger6Additional_vmask.png" />
+    <File fileId="53" filename="$data/vehicles/ropa/tiger6S/tiger6Belt01_diffuse.png" />
+    <File fileId="54" filename="$data/vehicles/ropa/tiger6S/tiger6Belt01_normal.png" />
+    <File fileId="55" filename="$data/vehicles/ropa/tiger6S/tiger6Belt01_vmask.png" />
+    <File fileId="50" filename="$data/vehicles/ropa/tiger6S/tiger6Belt02_diffuse.png" />
+    <File fileId="51" filename="$data/vehicles/ropa/tiger6S/tiger6Belt02_normal.png" />
+    <File fileId="52" filename="$data/vehicles/ropa/tiger6S/tiger6Belt02_vmask.png" />
+    <File fileId="65" filename="$data/vehicles/ropa/tiger6S/tiger6Belt03_diffuse.png" />
+    <File fileId="66" filename="$data/vehicles/ropa/tiger6S/tiger6Belt03_normal.png" />
+    <File fileId="67" filename="$data/vehicles/ropa/tiger6S/tiger6Belt03_vmask.png" />
+    <File fileId="8" filename="$data/vehicles/ropa/tiger6S/tiger6DecalsInterior_diffuse.png" />
+    <File fileId="73" filename="$data/vehicles/ropa/tiger6S/tiger6DecalsWheel_vmask.png" />
+    <File fileId="71" filename="$data/vehicles/ropa/tiger6S/tiger6Decals_diffuse.png" />
+    <File fileId="72" filename="$data/vehicles/ropa/tiger6S/tiger6Decals_normal.png" />
+    <File fileId="62" filename="$data/vehicles/ropa/tiger6S/tiger6Grid02_diffuse.png" />
+    <File fileId="63" filename="$data/vehicles/ropa/tiger6S/tiger6Grid02_normal.png" />
+    <File fileId="64" filename="$data/vehicles/ropa/tiger6S/tiger6Grid02_vmask.png" />
+    <File fileId="68" filename="$data/vehicles/ropa/tiger6S/tiger6Grid_diffuse.png" />
+    <File fileId="69" filename="$data/vehicles/ropa/tiger6S/tiger6Grid_normal.png" />
+    <File fileId="70" filename="$data/vehicles/ropa/tiger6S/tiger6Grid_vmask.png" />
+    <File fileId="44" filename="$data/vehicles/ropa/tiger6S/tiger6Interior_normal.png" />
+    <File fileId="45" filename="$data/vehicles/ropa/tiger6S/tiger6Interior_vmask.png" />
+    <File fileId="87" filename="$data/vehicles/ropa/tiger6S/tiger6SLights_emissive.png" />
+    <File fileId="12" filename="$data/vehicles/ropa/tiger6S/tiger6Screen_diffuse.png" />
+    <File fileId="85" filename="$data/vehicles/ropa/tiger6S/tiger6SteeringWheel_normal.png" />
+    <File fileId="86" filename="$data/vehicles/ropa/tiger6S/tiger6SteeringWheel_vmask.png" />
+    <File fileId="14" filename="$data/vehicles/ropa/tiger6S/tiger6_normal.png" />
+    <File fileId="15" filename="$data/vehicles/ropa/tiger6S/tiger6_vmask.png" />
   </Files>
 
   <Materials>

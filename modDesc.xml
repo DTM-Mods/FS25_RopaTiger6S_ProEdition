@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
-<modDesc descVersion="110">
+<modDesc descVersion="116">
     <author>DTM Mods, PropaineX</author>
-    <version>1.2.1.1</version>
+    <version>1.2.2.0</version>
 
     <title>
         <en>Ropa Tiger 6S ProEdition</en>
@@ -19,8 +19,31 @@ ProEdition: the header harvests, and the Tiger holds, every root crop and vegeta
 Tiger shop options: three tanks (Normal 43 m³, Boosted 57.5 m³, Extreme 63 m³), the 996 hp Tiger ProEdition engine, a cab window tint (Light, Medium or Dark), the side logo and rear logo each on or off, and three colors: a main color theme, a mechanical parts color for the belts and the cleaning section, and a rim color.
 Header and header trailer: the same main color theme and black color group (#1) as the Tiger, so all three machines can be themed to match; the trailer also has a rim color for its rims and hubs.
 
+Changelog 1.2.2.0:
+- Textures that are identical to the base-game Ropa machines are now loaded from the game, so the mod is about 68 MB smaller.
+- Removed three unused texture files; mod icon and window tint textures saved in the formats the game expects.
+- modDesc updated for game patch 1.25.1 and given a German description.
+
 Multiplayer: every player needs the mod.
 ]]></en>
+        <de><![CDATA[ProEdition-Kopien des Ropa Tiger 6S Rübenroders aus dem Grundspiel, seines RR-XL 9x45 Schneidwerks und des Schneidwerkswagens.
+
+Modelle, Texturen, Sounds und Einstellungen entsprechen den Maschinen aus dem Grundspiel. Im Shop stehen sie neben den Originalen:
+- Rübenroder: "Tiger 6S ProEdition"
+- Rübenroder-Schneidwerke: "RR-XL 9x45 ProEdition" und der "ProEdition" Schneidwerkswagen
+
+ProEdition: Das Schneidwerk erntet und der Tiger fasst alle Hackfrüchte und Gemüsesorten des Grundspiels sowie Zuckerrohr: Zuckerrüben, Rote Bete, Kartoffeln, Karotten, Pastinaken, grüne Bohnen, Erbsen, Spinat, Zwiebeln und Zuckerrohr (geköpft und geschnitten, mit den Zuckerrohr-Effekten des Spiels und Zuckerrohr auf den Bändern).
+
+Tiger-Shopoptionen: drei Bunker (Normal 43 m³, Boosted 57,5 m³, Extreme 63 m³), der 996 PS Tiger ProEdition Motor, eine Scheibentönung (Hell, Mittel oder Dunkel), Seiten- und Hecklogo jeweils an oder aus, und drei Farben: ein Hauptfarbthema, eine Farbe für die mechanischen Teile (Bänder und Reinigung) und eine Felgenfarbe.
+Schneidwerk und Schneidwerkswagen: dasselbe Hauptfarbthema und dieselbe schwarze Farbgruppe (#1) wie der Tiger, sodass alle drei Maschinen zusammenpassen; der Wagen hat zusätzlich eine Felgenfarbe für Felgen und Naben.
+
+Changelog 1.2.2.0:
+- Texturen, die mit den Ropa-Maschinen des Grundspiels identisch sind, werden jetzt aus dem Spiel geladen; der Mod ist dadurch etwa 68 MB kleiner.
+- Drei unbenutzte Texturdateien entfernt; Mod-Icon und Scheibentönungs-Texturen im vom Spiel erwarteten Format gespeichert.
+- modDesc für Spielpatch 1.25.1 aktualisiert und um eine deutsche Beschreibung ergänzt.
+
+Multiplayer: Jeder Spieler braucht den Mod.
+]]></de>
     </description>
 
     <iconFilename>icon_tiger6S.dds</iconFilename>

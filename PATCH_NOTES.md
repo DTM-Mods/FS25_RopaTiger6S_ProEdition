@@ -4,6 +4,13 @@
 
 # Patch notes
 
+## 1.2.2.0
+
+- Textures identical to the base-game Ropa machines (46 files) are now loaded from the game, so the mod is about 68 MB smaller.
+- Removed three unused texture files.
+- Mod icon, store icons and window tint textures saved in the formats the game expects.
+- Updated for game patch 1.25.1 (descVersion 116) and added a German description.
+
 ## 1.2.1.1
 
 - The author now shows as **DTM Mods, PropaineX** in the mod list.
