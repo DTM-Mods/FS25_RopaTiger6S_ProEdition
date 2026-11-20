@@ -4,12 +4,18 @@
 
 # Patch notes
 
-## 1.2.2.0
+## 1.2.1.4
 
-- Textures identical to the base-game Ropa machines (46 files) are now loaded from the game, so the mod is about 68 MB smaller.
-- Removed three unused texture files.
-- Mod icon, store icons and window tint textures saved in the formats the game expects.
-- Updated for game patch 1.25.1 (descVersion 116) and added a German description.
+- Description in GIANTS' ModHub layout (category, price, upkeep or hotkeys at the top).
+- Shop images without mipmaps, as ModHub wants.
+
+## 1.2.1.3
+
+- Updated for the current game version: modDesc descVersion 116 (the game build of 2026-10-27; GIANTS TestRunner 0.9.24 accepts only 116).
+
+## 1.2.1.2
+- Meets the GIANTS ModHub checks (TestRunner): textures, icon and modDesc brought up to date.
+- Smaller download: textures that are identical to the game's own are no longer shipped; the machines load them from the game.
 
 ## 1.2.1.1
 

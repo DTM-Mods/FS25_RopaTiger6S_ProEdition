@@ -35,54 +35,103 @@ Ropa Tiger 6S ProEdition
 
 ## Description English
 ```text
-ProEdition copies of the base-game Ropa Tiger 6S self-propelled beet harvester, its RR-XL 9x45 header and the header trailer, listed in the shop next to the originals. The difference is what they harvest: one machine for every root crop and vegetable, plus sugar cane.
+Tiger 6S ProEdition
+Category: Beet Harvesters
+Price: $699,000
+Power: 796 hp (996 hp with the Tiger ProEdition engine)
+Max. speed: 40 kph
+Working speed: 15 kph
+Capacity: 43,000 l (Boosted tank 57,500 l, Extreme tank 63,000 l)
 
-- Harvests sugar beet, beetroot, potatoes, carrots, parsnips, green beans, peas, spinach, onions and sugar cane (with the game's cane cutting effects and cane on the belts).
-- Tank: Normal (43 m³), Boosted (57.5 m³) or Extreme (63 m³); the Extreme tank can be filled with potatoes.
-- Engine: the stock 796 hp Tiger 6 XL or the 996 hp Tiger ProEdition.
-- Cab window tint (Light, Medium or Dark); side and rear logos on or off.
-- Colors: main color theme, mechanical parts (belts and cleaning section) and rims. Header and trailer take the same main color theme, so all three match.
-- Shop: Beet Harvesters (Tiger 699,000) and Beet Harvester Headers (header 79,000, trailer 9,000).
-- Multiplayer: every player needs the mod.
+RR-XL 9x45 ProEdition
+Category: Beet Harvester Headers
+Price: $79,000
+Working width: 5.5 m
+Working speed: 15 kph
 
-Changelog 1.2.1.0:
-- Fixed: on a server, the unloading and bunker belts sometimes kept running after unloading ended.
-- They now stop for every player when the tank is empty, the engine is off or the driver gets out.
+RR-XL 9x45 header trailer ProEdition
+Category: Beet Harvester Headers
+Price: $9,000
+
+ProEdition copies of the base-game Ropa Tiger 6S self-propelled beet harvester, its RR-XL 9x45 header and the header trailer.
+
+The models, textures, sounds and settings are the same as the base-game machines. They are listed in the shop next to the originals.
+
+ProEdition: the header harvests, and the Tiger holds, every root crop and vegetable in the base game, plus sugar cane: sugar beet, beetroot, potatoes, carrots, parsnips, green beans, peas, spinach, onions and sugar cane (topped and cut, with the game's cane cutting effects and cane on the belts).
+
+Tiger shop options: three tanks (Normal 43 m³, Boosted 57.5 m³, Extreme 63 m³), the 996 hp Tiger ProEdition engine, a cab window tint (Light, Medium or Dark), the side logo and rear logo each on or off, and three colors: a main color theme, a mechanical parts color for the belts and the cleaning section, and a rim color.
+Header and header trailer: the same main color theme and black color group (#1) as the Tiger, so all three machines can be themed to match; the trailer also has a rim color for its rims and hubs.
+
+Multiplayer: every player needs the mod.
 ```
 
 ## Description German
 ```text
-ProEdition-Kopien des selbstfahrenden Rübenroders Ropa Tiger 6S aus dem Grundspiel, seines Schneidwerks RR-XL 9x45 und des Schneidwerkswagens, im Shop neben den Originalen. Der Unterschied ist, was sie ernten: ein Fahrzeug für jede Hackfrucht und jedes Gemüse, dazu Zuckerrohr.
+Tiger 6S ProEdition
+Shopkategorie: Rübenroder
+Preis: 699.000 €
+Leistung: 796 PS (996 PS mit dem Motor Tiger ProEdition)
+Höchstgeschwindigkeit: 40 km/h
+Arbeitsgeschwindigkeit: 15 km/h
+Kapazität: 43.000 l (Bunker Boosted 57.500 l, Bunker Extreme 63.000 l)
 
-- Erntet Zuckerrüben, Rote Bete, Kartoffeln, Karotten, Pastinaken, grüne Bohnen, Erbsen, Spinat, Zwiebeln und Zuckerrohr (mit den Zuckerrohr-Effekten des Spiels und Zuckerrohr auf den Bändern).
-- Bunker: Normal (43 m³), Boosted (57,5 m³) oder Extreme (63 m³); der Extreme-Bunker lässt sich mit Kartoffeln füllen.
-- Motor: der serienmäßige Tiger 6 XL mit 796 PS oder der Tiger ProEdition mit 996 PS.
-- Scheibentönung der Kabine (Light, Medium oder Dark); Seiten- und Hecklogo ein oder aus.
-- Farben: Hauptfarbe, Mechanikteile (Bänder und Reinigung) und Felgen. Schneidwerk und Wagen nehmen dieselbe Hauptfarbe, so passen alle drei zusammen.
-- Shop: Rübenroder (Tiger 699.000) und Rübenroder-Schneidwerke (Schneidwerk 79.000, Wagen 9.000).
-- Mehrspieler: Jeder Spieler braucht die Mod.
+RR-XL 9x45 ProEdition
+Shopkategorie: Rübenroder-Schneidwerke
+Preis: 79.000 €
+Arbeitsbreite: 5,5 m
+Arbeitsgeschwindigkeit: 15 km/h
 
-Changelog 1.2.1.0:
-- Behoben: Auf einem Server liefen die Entlade- und Bunkerbänder nach dem Entladen manchmal weiter.
-- Sie stoppen jetzt für jeden Spieler, wenn der Bunker leer ist, der Motor aus ist oder der Fahrer aussteigt.
+RR-XL 9x45 Schneidwerkswagen ProEdition
+Shopkategorie: Rübenroder-Schneidwerke
+Preis: 9.000 €
+
+ProEdition-Kopien des selbstfahrenden Rübenroders Ropa Tiger 6S aus dem Grundspiel, seines Schneidwerks RR-XL 9x45 und des Schneidwerkswagens.
+
+Modelle, Texturen, Sounds und Einstellungen sind dieselben wie bei den Maschinen aus dem Grundspiel. Im Shop stehen sie neben den Originalen.
+
+ProEdition: Das Schneidwerk erntet und der Tiger fasst jede Hackfrucht und jedes Gemüse aus dem Grundspiel sowie Zuckerrohr: Zuckerrüben, Rote Bete, Kartoffeln, Karotten, Pastinaken, grüne Bohnen, Erbsen, Spinat, Zwiebeln und Zuckerrohr (geköpft und geschnitten, mit den Zuckerrohr-Schneideffekten des Spiels und Zuckerrohr auf den Bändern).
+
+Shop-Optionen des Tiger: drei Bunker (Normal 43 m³, Boosted 57,5 m³, Extreme 63 m³), der Tiger-ProEdition-Motor mit 996 PS, eine Scheibentönung der Kabine (Light, Medium oder Dark), Seitenlogo und Hecklogo jeweils an oder aus, und drei Farben: ein Hauptfarbthema, eine Farbe für die mechanischen Teile (Bänder und Reinigungsteil) und eine Felgenfarbe.
+Schneidwerk und Schneidwerkswagen: dasselbe Hauptfarbthema und dieselbe schwarze Farbgruppe (#1) wie der Tiger, sodass alle drei Maschinen farblich zusammenpassen; der Wagen hat außerdem eine Felgenfarbe für Felgen und Naben.
+
+Multiplayer: Jeder Spieler braucht den Mod.
 ```
 
 ## Description French
 ```text
-Copies ProEdition de l'arracheuse automotrice Ropa Tiger 6S du jeu de base, de sa coupe RR-XL 9x45 et de son chariot de coupe, au magasin à côté des originaux. La différence, c'est ce qu'elles récoltent : un seul véhicule pour toutes les cultures racines et tous les légumes, plus la canne à sucre.
+Tiger 6S ProEdition
+Catégorie : Arracheuses de betteraves
+Prix : 699 000 $
+Puissance : 796 ch (996 ch avec le moteur Tiger ProEdition)
+Vitesse max. : 40 km/h
+Vitesse de travail : 15 km/h
+Capacité : 43 000 l (trémie Boosted 57 500 l, trémie Extreme 63 000 l)
 
-- Récolte betteraves sucrières, betteraves rouges, pommes de terre, carottes, panais, haricots verts, petits pois, épinards, oignons et canne à sucre (avec les effets de coupe de canne du jeu et la canne sur les tapis).
-- Trémie : Normal (43 m³), Boosted (57,5 m³) ou Extreme (63 m³) ; la trémie Extreme peut être remplie de pommes de terre.
-- Moteur : le Tiger 6 XL d'origine de 796 ch ou le Tiger ProEdition de 996 ch.
-- Teinte des vitres de la cabine (Light, Medium ou Dark) ; logos latéral et arrière activables.
-- Couleurs : couleur principale, pièces mécaniques (tapis et nettoyage) et jantes. La coupe et le chariot prennent la même couleur principale, les trois sont assortis.
-- Magasin : arracheuses de betteraves (Tiger 699 000) et coupes à betteraves (coupe 79 000, chariot 9 000).
-- Multijoueur : chaque joueur a besoin du mod.
+RR-XL 9x45 ProEdition
+Catégorie : Coupes à betteraves
+Prix : 79 000 $
+Largeur de travail : 5,5 m
+Vitesse de travail : 15 km/h
 
-Changelog 1.2.1.0 :
-- Corrigé : sur un serveur, les tapis de déchargement et de trémie continuaient parfois de tourner après le déchargement.
-- Ils s'arrêtent maintenant pour chaque joueur quand la trémie est vide, le moteur coupé ou le conducteur descendu.
+Chariot de coupe RR-XL 9x45 ProEdition
+Catégorie : Coupes à betteraves
+Prix : 9 000 $
+
+Copies ProEdition de l'arracheuse automotrice Ropa Tiger 6S du jeu de base, de sa coupe RR-XL 9x45 et de son chariot de coupe.
+
+Les modèles, textures, sons et réglages sont les mêmes que ceux des machines du jeu de base. Au magasin, elles se trouvent à côté des originaux.
+
+ProEdition : la coupe récolte, et le Tiger contient, toutes les cultures racines et tous les légumes du jeu de base, plus la canne à sucre : betteraves sucrières, betteraves rouges, pommes de terre, carottes, panais, haricots verts, petits pois, épinards, oignons et canne à sucre (effeuillée et coupée, avec les effets de coupe de canne du jeu et la canne sur les tapis).
+
+Options du Tiger au magasin : trois trémies (Normal 43 m³, Boosted 57,5 m³, Extreme 63 m³), le moteur Tiger ProEdition de 996 ch, une teinte des vitres de la cabine (Light, Medium ou Dark), les logos latéral et arrière activables séparément, et trois couleurs : un thème de couleur principale, une couleur pour les pièces mécaniques (tapis et nettoyage) et une couleur de jantes.
+Coupe et chariot de coupe : le même thème de couleur principale et le même groupe de couleur noire (n° 1) que le Tiger, pour assortir les trois machines ; le chariot a aussi une couleur de jantes pour ses jantes et moyeux.
+
+Multijoueur : chaque joueur a besoin du mod.
 ```
+
+## Screenshots
+
+Upload the 6 images in [`screenshots/`](screenshots/) (1600x900, unedited in-game shots) in this order: [`1.jpg`](screenshots/1.jpg), [`2.jpg`](screenshots/2.jpg), [`3.jpg`](screenshots/3.jpg), [`4.jpg`](screenshots/4.jpg), [`5.jpg`](screenshots/5.jpg), [`6.jpg`](screenshots/6.jpg).
 
 ## Before uploading
 
